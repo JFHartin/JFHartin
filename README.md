@@ -2,7 +2,7 @@
 
 This project demonstrates a common security mistake: accidentally committing sensitive credentials to a repository.
 
-## 🔐 Sample Credentials (DO NOT USE)
+## Sample Credentials (DO NOT USE)
 
 Below are **fake credentials** included intentionally to test secret scanning tools like [TruffleHog](https://github.com/trufflesecurity/trufflehog).
 
