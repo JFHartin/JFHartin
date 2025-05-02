@@ -1,14 +1,11 @@
-# Sample Project with Embedded Credentials
+# Test Secrets
 
-This project demonstrates a common security mistake: accidentally committing sensitive credentials to a repository.
+AWS_ACCESS_KEY_ID=AKIA123456789EXAMPLE  
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY  
 
-## Sample Credentials (DO NOT USE)
+username: johndoe  
+password: P@ssw0rd123  
 
-Below are **fake credentials** included intentionally to test secret scanning tools like [TruffleHog](https://github.com/trufflesecurity/trufflehog).
+api_key = "sk_test_51HtFhvEXAMPLE"
 
-### AWS
-
-```ini
-[default]
-aws_access_key_id = AKIAIOSFODNN7EXAMPLE
-aws_secret_access_key = wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA7exampleSSHkey==
