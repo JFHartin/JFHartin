@@ -3,8 +3,8 @@
 AWS_ACCESS_KEY_ID=AKIA123456789  
 AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCY
 
-username: johndoe  
-password: P@ssw0rd123  
+username: mike@yahoo.com  
+password: CsjpwBg4u$$2l85b  
 
 api_key = "sk_test_51HtFhv"
 
